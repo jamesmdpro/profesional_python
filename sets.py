@@ -21,9 +21,11 @@ list = [1, 1, 2, 3, 2, 4]
 print(set(list))
 
 """
+# eliminador de repetidos " en esta caso lo que utilizo union "
 
+"""
 list = {1, 1, 2, 3, 2, 4}
 list2 = {1, 1, 2, 3, 2, 4}
 list3 = list | list2 
 print(list3)
-
+"""
